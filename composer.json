@@ -1,0 +1,13 @@
+{
+    "name": "user/phpls-022020-home-work-5",
+    "type": "project",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Sergey Aleinikov",
+            "email": "chaositomail@gmail.com"
+        }
+    ]
+}
