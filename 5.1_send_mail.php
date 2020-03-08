@@ -1,4 +1,5 @@
 <?php
+include_once('vendor/autoload.php');
 
 /* Mail-Server (for send messages) */
 const MAIL_SERVER       = 'smtp.yandex.ru';

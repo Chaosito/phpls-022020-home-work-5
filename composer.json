@@ -2,7 +2,8 @@
     "name": "user/phpls-022020-home-work-5",
     "type": "project",
     "require": {
-        "swiftmailer/swiftmailer": "^6.2"
+        "swiftmailer/swiftmailer": "^6.2",
+        "intervention/image": "^2.5"
     },
     "authors": [
         {
